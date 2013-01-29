@@ -1,7 +1,7 @@
 diceyWavebot
 ============
 
-MIT License
+The MIT License (MIT)
 
 Copyright (c) 2009 Petar Strinic
 
